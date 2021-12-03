@@ -1,6 +1,6 @@
 ## Olá, eu sou o Danilo Araujo 
-- 🔭 Hoje eu trabalho fora da area de tecnologia, estou eufórico para poder iniciar trabalhos na area que eu tanto amo, a programação.
-- 🌱 Estudo Analise e Desenvolvimento de Sistemas e minha preferencia hoje é Back-End.
+- 🔭 Hoje eu trabalho fora da area de tecnologia, mas estou eufórico para poder iniciar trabalhos na area que eu tanto amo, a programação.
+- 🌱 Estudo Analise e Desenvolvimento de Sistemas e minha preferencia hoje é o Back-End.
 - 😄 Pronome: Ele/Dele.
 
 <div align="center">
