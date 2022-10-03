@@ -9,9 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAraujo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-HTML" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Dan-CSS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Dan-Js" height="41" width="41" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Dan-HTML" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Dan-CSS" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Dan-Js" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
   <img align="right" alt="Dan-pic" height="140" style="border-radius:50px;" src="https://media.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif">
 </div>
