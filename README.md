@@ -1,35 +1,85 @@
-## Olá, eu sou o Danilo Araujo 
-- 🔭 Atualmente estagiando na OneBox Tecnologia, sigo sempre estudando e tentando me manter atualizado. Curso Analise e Desenvolvimento de Sistemas pela Universidade Paulista UNIP, alem disso faço alguns cursos extracurriculares para complementar o curriculo e tambem meus conhecimentos.
-- 🌱 Atualmente estuo na area do front-end e estou constantemente buscando mais conhecimentos e ampliando minha network.
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:22d3ee&height=190&section=header&text=Danilo%20Araujo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%7C%20Angular%20%26%20TypeScript&descAlignY=58&descSize=18" alt="Danilo Araujo - Front-end Developer" />
+
+### Transformando problemas reais em experiências digitais simples, rápidas e bem construídas.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ag)
+[![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.ag2@gmail.com)
+
+</div>
+
+## Sobre mim
+
+Sou **Desenvolvedor Front-end Pleno**, com foco na criação de aplicações web escaláveis, responsivas e orientadas à experiência do usuário.
+
+Minha principal stack é **Angular + TypeScript**. No dia a dia, trabalho com arquitetura de componentes, gerenciamento de estado, integração com APIs REST, qualidade de código e evolução contínua de produtos digitais.
+
+Também estou ampliando meus conhecimentos em **Java, Spring Boot e SQL**, buscando uma visão cada vez mais completa do desenvolvimento de software — do banco de dados até a interface.
+
+- 💻 Front-end com Angular, TypeScript, RxJS e NgRx
+- 🎨 Interfaces responsivas, acessíveis e consistentes
+- 🧪 Testes, boas práticas, performance e manutenibilidade
+- ☕ Conhecimentos básicos em Java, Spring Boot e SQL
+- 📍 São Paulo, Brasil
+
+## Stack principal
 
 <div align="center">
-  <a href="https://github.com/DaniloAraujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloAraujo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloAraujo&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Dan-HTML" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Dan-CSS" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Dan-Js" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Dan-Ts" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Dan-Vue" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Dan-Vuetify" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg">
-  <img align="center" alt="Dan-Bootstrap" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Dan-Git" height="61" width="61" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-  <img align="right" alt="Dan-pic" height="140" style="border-radius:50px;" src="https://media.giphy.com/media/iYVneIXJQ3jdJLkZmM/giphy.gif">
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.instagram.com/danilo.ag_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.facebook.com/dan.ag2" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href = "mailto:daniloo.ag2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/danilo-ag" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/DaniloAraujo/DaniloAraujo/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular%20Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+## Conhecimentos em evolução
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+## Projeto atual
+
+### Agenda Aí
+
+Ecossistema de agendamento pensado para conectar clientes e estabelecimentos que trabalham com horários marcados.
+
+O projeto reúne experiências para **clientes, lojistas e administração**, com front-ends em Angular e APIs em Java/Spring. Nele, aplico conceitos de arquitetura modular, componentes reutilizáveis, gerenciamento de estado, autenticação, integração com APIs e experiência do usuário.
+
+> Produto em desenvolvimento contínuo, da ideia e prototipação até a implementação técnica.
+
+## Como eu trabalho
+
+- Código legível e fácil de manter
+- Componentes reutilizáveis e arquitetura escalável
+- Decisões guiadas pela experiência do usuário
+- Colaboração, aprendizado constante e visão de produto
+- Uso consciente de IA para acelerar entregas sem abrir mão da qualidade
+
+<div align="center">
+
+### Vamos conversar?
+
+Estou sempre aberto a trocar ideias sobre tecnologia, produtos digitais e oportunidades.
+
+[![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ag)
+[![E-mail](https://img.shields.io/badge/Enviar%20um%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.ag2@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:22d3ee&height=110&section=footer" alt="" />
+
+</div>
