@@ -1,28 +1,25 @@
 <div align="center">
 
-# Olá, eu sou o Danilo Araujo 👋
-
-### Front-end Developer | Angular & TypeScript
+# Front-end Developer | Angular & TypeScript
 
 Transformando problemas reais em experiências digitais simples, rápidas e bem construídas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ag)
-[![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.ag2@gmail.com)
 
 </div>
 
 ## Sobre mim
 
-Sou **Desenvolvedor Front-end Pleno**, com foco na criação de aplicações web escaláveis, responsivas e orientadas à experiência do usuário.
+Sou **Desenvolvedor Front-end**, com foco na criação de aplicações web escaláveis, responsivas e orientadas à experiência do usuário.
 
 Minha principal stack é **Angular + TypeScript**. No dia a dia, trabalho com arquitetura de componentes, gerenciamento de estado, integração com APIs REST, qualidade de código e evolução contínua de produtos digitais.
 
-Também estou ampliando meus conhecimentos em **Java, Spring Boot e SQL**, buscando uma visão cada vez mais completa do desenvolvimento de software — do banco de dados até a interface.
+Também estou ampliando meus conhecimentos em **Java, Spring Boot, SQL, Python e MongoDB**, buscando uma visão cada vez mais completa do desenvolvimento de software — do banco de dados até a interface.
 
 - 💻 Front-end com Angular, TypeScript, RxJS e NgRx
 - 🎨 Interfaces responsivas, acessíveis e consistentes
 - 🧪 Testes, boas práticas, performance e manutenibilidade
-- ☕ Conhecimentos básicos em Java, Spring Boot e SQL
+- 📚 Conhecimentos básicos em Java, Spring Boot, SQL, Python e MongoDB
 - 📍 São Paulo, Brasil
 
 ## Stack principal
@@ -52,6 +49,8 @@ Também estou ampliando meus conhecimentos em **Java, Spring Boot e SQL**, busca
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </div>
 
@@ -80,6 +79,5 @@ O projeto reúne experiências para **clientes, lojistas e administração**, co
 Estou sempre aberto a trocar ideias sobre tecnologia, produtos digitais e oportunidades.
 
 [![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ag)
-[![E-mail](https://img.shields.io/badge/Enviar%20um%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.ag2@gmail.com)
 
 </div>
