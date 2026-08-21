@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:22d3ee&height=190&section=header&text=Danilo%20Araujo&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%7C%20Angular%20%26%20TypeScript&descAlignY=58&descSize=18" alt="Danilo Araujo - Front-end Developer" />
+# Olá, eu sou o Danilo Araujo 👋
 
-### Transformando problemas reais em experiências digitais simples, rápidas e bem construídas.
+### Front-end Developer | Angular & TypeScript
+
+Transformando problemas reais em experiências digitais simples, rápidas e bem construídas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danilo%20Araujo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ag)
 [![E-mail](https://img.shields.io/badge/E--mail-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.ag2@gmail.com)
@@ -79,7 +81,5 @@ Estou sempre aberto a trocar ideias sobre tecnologia, produtos digitais e oportu
 
 [![LinkedIn](https://img.shields.io/badge/Conectar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-ag)
 [![E-mail](https://img.shields.io/badge/Enviar%20um%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloo.ag2@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:22d3ee&height=110&section=footer" alt="" />
 
 </div>
